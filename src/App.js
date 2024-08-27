@@ -1,5 +1,5 @@
 /*
-//Intenal Storage
+///Intenal Storage
 import { useState } from 'react';
 import './App.css';
 const uuid = require('uuid');
